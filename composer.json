@@ -1,15 +1,15 @@
 {
   "name": "xww/ip",
-  "description": "Yii2 IP",
+  "description": "Yii2 AdminLog",
   "keywords": [
     "yii2",
-    "ip to address"
+    "Yii2 AdminLog"
   ],
-  "homepage": "https://github.com/zouqiao945/shuwon",
+  "homepage": "https://github.com/wyw1994/adminLog",
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/zouqiao945/shuwon"
+    "source": "https://github.com/wyw1994/adminLog"
   },
   "authors": [
     {
